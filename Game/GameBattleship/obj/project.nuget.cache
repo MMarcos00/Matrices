@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "crhlQ9YoXTzt/VH66gs08DVcp0rUlen73mo4U9bfRpICUOIbRvHDv3s2cpZGbaLWfUbXYCWebRG/jKQzhj6RWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IBI\\Documents\\Game\\GameBattleship\\GameBattleship.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IBI\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\IBI\\.nuget\\packages\\system.drawing.common\\8.0.3\\system.drawing.common.8.0.3.nupkg.sha512",
+    "C:\\Users\\IBI\\.nuget\\packages\\system.reactive\\6.0.0\\system.reactive.6.0.0.nupkg.sha512",
+    "C:\\Users\\IBI\\.nuget\\packages\\system.reactive.windows.forms\\6.0.0\\system.reactive.windows.forms.6.0.0.nupkg.sha512",
+    "C:\\Users\\IBI\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"System.Reactive.Windows.Forms 6.0.0\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net8.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "System.Reactive.Windows.Forms",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\Mark\Desktop\The-Battle-Ship-master\BattleShip.BLL\bin\Debug\BattleShip.BLL.dll
+C:\Users\Mark\Desktop\The-Battle-Ship-master\BattleShip.BLL\bin\Debug\BattleShip.BLL.pdb
+C:\Users\Mark\Desktop\The-Battle-Ship-master\BattleShip.BLL\obj\Debug\BattleShip.BLL.csprojAssemblyReference.cache
+C:\Users\Mark\Desktop\The-Battle-Ship-master\BattleShip.BLL\obj\Debug\BattleShip.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\The-Battle-Ship-master\BattleShip.BLL\obj\Debug\BattleShip.BLL.dll
+C:\Users\Mark\Desktop\The-Battle-Ship-master\BattleShip.BLL\obj\Debug\BattleShip.BLL.pdb
+C:\Users\IBI\Documents\Battleship Game in C#\BattleShip.BLL\bin\Debug\BattleShip.BLL.dll
+C:\Users\IBI\Documents\Battleship Game in C#\BattleShip.BLL\bin\Debug\BattleShip.BLL.pdb
+C:\Users\IBI\Documents\Battleship Game in C#\BattleShip.BLL\obj\Debug\BattleShip.BLL.csproj.AssemblyReference.cache
+C:\Users\IBI\Documents\Battleship Game in C#\BattleShip.BLL\obj\Debug\BattleShip.BLL.csproj.CoreCompileInputs.cache
+C:\Users\IBI\Documents\Battleship Game in C#\BattleShip.BLL\obj\Debug\BattleShip.BLL.dll
+C:\Users\IBI\Documents\Battleship Game in C#\BattleShip.BLL\obj\Debug\BattleShip.BLL.pdb

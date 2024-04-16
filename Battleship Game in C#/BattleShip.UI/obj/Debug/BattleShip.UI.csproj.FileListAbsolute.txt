@@ -1,0 +1,20 @@
+C:\Users\Mark\Desktop\The-Battle-Ship-master\BattleShip.UI\bin\Debug\BattleShip.UI.exe.config
+C:\Users\Mark\Desktop\The-Battle-Ship-master\BattleShip.UI\bin\Debug\BattleShip.UI.exe
+C:\Users\Mark\Desktop\The-Battle-Ship-master\BattleShip.UI\bin\Debug\BattleShip.UI.pdb
+C:\Users\Mark\Desktop\The-Battle-Ship-master\BattleShip.UI\bin\Debug\BattleShip.BLL.dll
+C:\Users\Mark\Desktop\The-Battle-Ship-master\BattleShip.UI\bin\Debug\BattleShip.BLL.pdb
+C:\Users\Mark\Desktop\The-Battle-Ship-master\BattleShip.UI\obj\Debug\BattleShip.UI.csprojAssemblyReference.cache
+C:\Users\Mark\Desktop\The-Battle-Ship-master\BattleShip.UI\obj\Debug\BattleShip.UI.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\The-Battle-Ship-master\BattleShip.UI\obj\Debug\BattleShip.UI.csproj.CopyComplete
+C:\Users\Mark\Desktop\The-Battle-Ship-master\BattleShip.UI\obj\Debug\BattleShip.UI.exe
+C:\Users\Mark\Desktop\The-Battle-Ship-master\BattleShip.UI\obj\Debug\BattleShip.UI.pdb
+C:\Users\IBI\Documents\Battleship Game in C#\BattleShip.UI\bin\Debug\BattleShip.UI.exe.config
+C:\Users\IBI\Documents\Battleship Game in C#\BattleShip.UI\bin\Debug\BattleShip.UI.exe
+C:\Users\IBI\Documents\Battleship Game in C#\BattleShip.UI\bin\Debug\BattleShip.UI.pdb
+C:\Users\IBI\Documents\Battleship Game in C#\BattleShip.UI\bin\Debug\BattleShip.BLL.dll
+C:\Users\IBI\Documents\Battleship Game in C#\BattleShip.UI\bin\Debug\BattleShip.BLL.pdb
+C:\Users\IBI\Documents\Battleship Game in C#\BattleShip.UI\obj\Debug\BattleShip.UI.csproj.AssemblyReference.cache
+C:\Users\IBI\Documents\Battleship Game in C#\BattleShip.UI\obj\Debug\BattleShip.UI.csproj.CoreCompileInputs.cache
+C:\Users\IBI\Documents\Battleship Game in C#\BattleShip.UI\obj\Debug\BattleSh.3E5E0ACF.Up2Date
+C:\Users\IBI\Documents\Battleship Game in C#\BattleShip.UI\obj\Debug\BattleShip.UI.exe
+C:\Users\IBI\Documents\Battleship Game in C#\BattleShip.UI\obj\Debug\BattleShip.UI.pdb
